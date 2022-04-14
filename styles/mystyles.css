@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(171, 198, 222);
+}
+
+.center{
+    text-align: center;
+}
+
+H1{
+    color: rgb(171, 198, 222) ;
+}
+
+H2{
+    font-style: italic;
+}
+
+span{
+    text-decoration: underline;
+}
